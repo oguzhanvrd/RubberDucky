@@ -1,0 +1,30 @@
+REM The next four lines open Notepad in Windows and type "Hello World!"
+GUI r
+DELAY 250
+STRING cmd
+DELAY 100
+ENTER
+DELAY 250
+DELAY 100
+STRING color a 
+DELAY 150
+ENTER
+DELAY 150
+STRING dir /s
+DELAY 100
+ENTER
+GUI r 
+DELAY 200
+STRING cmd
+DELAY 100
+ENTER
+DELAY 100
+STRING cd desktop
+DELAY 100
+ENTER
+STRING hack.vbs
+DELAY 100
+ENTER
+
+
+
